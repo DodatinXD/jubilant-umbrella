@@ -13,6 +13,67 @@
   "name": "Modpack :3",
   "version": "",
   "author": "",
-  "files": [],
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 6600311,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 686911,
+      "fileID": 7313094,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 910506,
+      "fileID": 5083995,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 908741,
+      "fileID": 5681725,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 448233,
+      "fileID": 7396677,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5338457,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 248787,
+      "fileID": 4770828,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 654373,
+      "fileID": 6101745,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 324717,
+      "fileID": 6855440,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 429235,
+      "fileID": 4810975,
+      "required": true,
+      "isLocked": false
+    }
+  ],
   "overrides": "overrides"
 }
